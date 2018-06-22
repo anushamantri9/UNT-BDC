@@ -1,4 +1,3 @@
-# UNT-BDC
-Repo for UNT Big Data Challenge 2017 project
+# UNT-Projects
+Repo for past UNT projects
 
-Co-Contributors: Suchismita Chaterjee, Zipal Trivedi, Trinath Gurrala, Shravani Tulsi, Ajinkya Paikine
